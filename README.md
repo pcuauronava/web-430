@@ -1,4 +1,4 @@
-## WEB-430 DevOps
-# Contributors
+# WEB-430 DevOps
+## Contributors
 * Richard Krasso
 * Patrick Cuauro
